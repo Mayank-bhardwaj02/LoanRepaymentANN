@@ -4,11 +4,8 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -30,20 +27,6 @@ The dataset consists of several numerical and categorical variables that describ
 - Model Building: Building an ANN model using TensorFlow/Keras.
 - Evaluation: Evaluating the model using various metrics to understand its performance.
 
-## Installation
-
-1. Clone this GitHub repository.
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-  
-2. Navigate to the project directory and install the required Python packages.
-    ```bash
-    cd your-repo-name
-    pip install -r requirements.txt
-    ```
-  
-3. Download the LendingClub dataset and place it in the appropriate directory.
 
 ## Usage
 
@@ -60,16 +43,4 @@ The dataset consists of several numerical and categorical variables that describ
 - **scikit-learn**: For data preprocessing and performance metrics.
 - **TensorFlow/Keras**: For building the Artificial Neural Network.
 
-## Contributing
 
-Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) before making any changes.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
-3. Commit your Changes (`git commit -m 'Add some YourFeature'`)
-4. Push to the Branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
